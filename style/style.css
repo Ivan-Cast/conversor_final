@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body{
+    background-image: url('https://www.estrategiaynegocios.net/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=6gQQDiDVidlVPSYM4qde4s$daE2N3K4ZzOUsqbU5sYskJv4bB7ZSI8qct93Qv8AFWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(2, 2, 44);
+    font-family: 'noto sans mono', "Informal Roman";
+}
+
+#de{
+background-color: rgba(29, 123, 216, 0.4);
+width: 100%;
+border: solid blue;
+}
+
+#a{
+    background-color: rgba(99, 146, 194, 0.4);
+    width: 100%;
+    border: solid red;
+}
+
+#cantidad{
+    background-color: rgba(99, 146, 194, 0.4);
+    width: 50%;
+    border: solid yellow;
+}
+main{
+    text-align: center;
+}
+img{
+    margin-top: 10px;
+}
+
+h1{
+    color: maroon;
+}
+
